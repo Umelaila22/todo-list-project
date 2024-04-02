@@ -1,8 +1,4 @@
 import inquirer from "inquirer";
-//inquirer  done
-//array     done
-//function  done
-//operators
 let todos = ["naina", "zainab"];
 async function createTodo(todos) {
     do {
